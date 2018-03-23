@@ -13,4 +13,4 @@ Java版本: 1.8
 
 服务器: Tomcat
 
-开发框架：Spring + SpringMVC + Hibernate
+开发框架：Spring + Struts + Hibernate
